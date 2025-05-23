@@ -35,7 +35,7 @@ h1 {
 p {
   margin-top: 20px;
   color: #4b2e2e;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .form-row {
@@ -186,17 +186,34 @@ textarea {
 button {
   margin-top: 20px;
   padding: 12px 24px;
-  font-size: 16px;
-  background-color: #e6defe;
+  font-size: 14px;
+  background-color: #a0b8e588;
   color: #000000;
   border: none;
-  border-radius: 10px;
+  border-radius: 20px;
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
 
 button:hover {
-  background-color: #d4c7f2;
+  background-color: #b5b6ee98;
+}
+
+.secondary-button {
+  display: inline-block;
+  padding: 6px 16px;
+  font-size: 13px;
+  background-color: #f2e8ff;
+  color: #402f56;
+  text-decoration: none;
+  border-radius: 8px;
+  border: 1px solid #d3c5f0;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.secondary-button:hover {
+  background-color: #e5dafb;
+  color: #2e2341;
 }
 
 @media (max-width: 600px) {

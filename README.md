@@ -1,7 +1,7 @@
 <h1>Website Portfolio Survey</h1>
 <p>Practicing with forms!</p>
 <a href="https://marisavertz.github.io/Website_Portfolio_Survey/">
-  <img src="https://raw.githubusercontent.com/MarisaVertz/Cat_Blog/refs/heads/main/images/cat-blog-screenshot.png" width="500">
+  <img src="https://raw.githubusercontent.com/MarisaVertz/Website_Portfolio_Survey/refs/heads/main/survey_screenshot.png" width="500">
 </a>
 <br><br>
 <a href="https://marisavertz.github.io/Website_Portfolio_Survey/">
